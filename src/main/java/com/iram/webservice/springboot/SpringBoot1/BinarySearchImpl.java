@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 public class BinarySearchImpl {
 	@Autowired
 	SortingAlgorithm algorithm;
+	String name;
 	
 	
 	
