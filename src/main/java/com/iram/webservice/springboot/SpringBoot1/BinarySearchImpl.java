@@ -12,9 +12,9 @@ public class BinarySearchImpl {
 	
 	
 	
-	public BinarySearchImpl(SortingAlgorithm algorithm) {
+	public BinarySearchImpl(SortingAlgorithm algo) {
 		super();
-		this.algorithm = algorithm;
+		this.algorithm = algo;
 	}
 
 
